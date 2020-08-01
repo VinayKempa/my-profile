@@ -4,4 +4,4 @@ This is my personal website
 
 Changes in Example branch
 
-update-readme - updting in local
+Update made on master on GitHub before rebase
